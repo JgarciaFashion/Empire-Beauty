@@ -6,4 +6,16 @@ body{
 }
 .award1{
     color:blue;
+    font-family: 'Lobster', cursive;
+    font-size:70px;
 }
+.besthairproducts{
+    font-family: 'Ultra', serif;
+}
+.besticon{
+    font-family: 'Oleo Script', cursive;
+}
+.products{
+    font-family: 'Berkshire Swash', cursive;
+}
+    
